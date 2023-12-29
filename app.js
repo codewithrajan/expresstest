@@ -14,5 +14,5 @@ app.use('/contact', contactRoutes);
 
 // Start the server
 app.listen(PORT, () => {
-  console.log(`Server listening on port ${port}`);
+  console.log(`Server listening on port ${PORT}`);
 });
